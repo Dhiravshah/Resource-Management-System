@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705753432404",
+    "project_id": "resource-management-syst-ba013",
+    "storage_bucket": "resource-management-syst-ba013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705753432404:android:673aef25f0b3e691df88c1",
+        "android_client_info": {
+          "package_name": "com.example.project.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705753432404-8tj4ngbn38ba1ja8bp9h39afkq3fbmla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASUQnnUD2hmy3N3PNlC3On2J3vR4riJMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705753432404-8tj4ngbn38ba1ja8bp9h39afkq3fbmla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
